@@ -1,6 +1,10 @@
 1234567890
 
 
+<<<<<<< Updated upstream
 CDevelopeed by Hanumaiah 121212121212
+=======
+CDevelopeed by Hanumaiah & 12121212
+>>>>>>> Stashed changes
 
 
